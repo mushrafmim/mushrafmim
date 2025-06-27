@@ -1,12 +1,28 @@
 # Hi there I am Mushraf.
-Solving Real World Problems with Code
+*Solving Real World Problems with Code*  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mushrafmim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushrafmim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+I love building real-world applications that solve meaningful problems. I'm always exploring new technologies, frameworks, and ideas to sharpen my skills and broaden my horizons. I'm also keen to contribute to open-source projects and collaborate with developers around the globe.
+
+Whether it's crafting efficient backend systems, designing responsive UIs, or experimenting with the latest tools—I'm driven by curiosity and the thrill of building impactful software.
+
+## Reach Me Via:
+<div align="left">
+  <a href="https://linkedin.com/in/mushrafmim" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mushrafmim@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-### 🛠 &nbsp;Languages and Tools :
+## Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushrafmim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mushrafmim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+## 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
