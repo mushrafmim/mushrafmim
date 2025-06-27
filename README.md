@@ -6,6 +6,8 @@ I love building real-world applications that solve meaningful problems. I'm alwa
 
 Whether it's crafting efficient backend systems, designing responsive UIs, or experimenting with the latest tools—I'm driven by curiosity and the thrill of building impactful software.
 
+Visit My Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=aiohttp&logoColor=white)](https://mushrafmim.me/)
+
 ## Reach Me Via:
 <div align="left">
   <a href="https://linkedin.com/in/mushrafmim" target="_blank">
