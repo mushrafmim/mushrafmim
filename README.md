@@ -1,12 +1,7 @@
-### Hi there I am Mohamed Mushraf.
+# Hi there I am Mushraf.
 
-<!--
-**mushrafmim/mushrafmim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
-- 🌱 I’m currently learning Data Science and Machine Learning.
-- 👯 I’m looking to collaborate on Frontend and Backend Development Projects.
+## About Me
+I love building real-world applications that solve meaningful problems. I'm always exploring new technologies, frameworks, and ideas to sharpen my skills and broaden my horizons. I'm also keen to contribute to open-source projects and collaborate with developers around the globe. Whether it's crafting efficient backend systems, designing responsive UIs, or experimenting with the latest tools—I'm driven by curiosity and the thrill of building impactful software.
 
 ### 🛠 &nbsp;Languages and Tools :
 
