@@ -1,7 +1,5 @@
 # Hi there I am Mushraf.
-
-## About Me
-I love building real-world applications that solve meaningful problems. I'm always exploring new technologies, frameworks, and ideas to sharpen my skills and broaden my horizons. I'm also keen to contribute to open-source projects and collaborate with developers around the globe. Whether it's crafting efficient backend systems, designing responsive UIs, or experimenting with the latest tools—I'm driven by curiosity and the thrill of building impactful software.
+Solving Real World Problems with Code
 
 ### 🛠 &nbsp;Languages and Tools :
 
